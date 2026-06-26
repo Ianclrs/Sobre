@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**🗺️ Other Languages:** | [Português-BR](README.md) | [Español](README-es.md) | [Deutsch](docs/i18n/README.zh-Hans.md)
+**🗺️ Other Languages:** | [Português-BR](README.md) | [Español](README-es.md) | [Deutsch](README-dt.md)
 
 </div>
 
